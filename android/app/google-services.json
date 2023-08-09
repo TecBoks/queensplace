@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224006562546",
+    "project_id": "bequeenhn",
+    "storage_bucket": "bequeenhn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224006562546:android:24ae0cafed4d39fd9b266b",
+        "android_client_info": {
+          "package_name": "com.tecboks.bequeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224006562546-l9lun1j08qu8reovj3klp2tt18j74r3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Acr5tObj4LfxD6-3vDTMKvWgJDx89tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224006562546-l9lun1j08qu8reovj3klp2tt18j74r3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
